@@ -99,5 +99,3 @@ git branch
  git checkout <имя ветки>
  ```
  
-
- 
