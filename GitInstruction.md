@@ -157,6 +157,6 @@ git branch
 ```git push -u origin new```
 
 - Перейди на свой аккаунт в GitHub, сделай обнавление, если кнопка ***PullRequest*** активна ***ЖМИ!!!***
-- Кнопка ***PullRequest*** не активна, переди во вкладку ***PullRequest***  и жми на кнопку ***New pull request***, выбрав ветку ***main***
+- Кнопка ***PullRequest*** не активна, переди во вкладку ***PullRequest***  и жми на кнопку ***New pull request***, выбрав нужную ветку
 - Кнопка ***Greate pull request*** АКТИВНА ***ЖМИ!!!***
 
